@@ -11,7 +11,9 @@
 }
 
 
-
+.navbar-nav{
+  padding: 20px 30px;
+}
 
 .navbar-custom .navbar-nav .nav-link {
     color: rgba(255, 255, 255, .7);
